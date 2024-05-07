@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Mathis Velghe, a 15 year old with a passion for coding. 
+Hello there! 👋 I'm Mathis Velghe, a 15 year old and I love making things.
 
 ## 🌱 Current Focus
 
